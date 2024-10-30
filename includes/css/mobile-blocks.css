@@ -1,0 +1,10 @@
+.mblocks-corner-button {
+    bottom: 0;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    text-align: center;
+    z-index: 999999;
+    padding:10px;
+    border-radius: 50%
+}
